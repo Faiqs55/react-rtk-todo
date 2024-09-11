@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux"
-import AddTodo from "./components/addTodo"
+import AddTodo from "./components/AddTodo"
 import Todos from "./components/Todos";
 
 function App() {
